@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Taxim
 ================
 
@@ -48,3 +49,7 @@ Credits
 
 License
 -------
+=======
+# taxim
+a local taxi site
+>>>>>>> 23ab99ff8cd761f0757c1024e2a228f905a1633f
