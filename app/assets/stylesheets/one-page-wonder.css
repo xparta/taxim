@@ -172,3 +172,6 @@ footer {
         margin-left: 0;
     }
 }
+.featurette about{
+     background-image: url(images/taxi-icon.png);
+}
